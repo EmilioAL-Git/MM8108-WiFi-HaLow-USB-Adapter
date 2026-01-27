@@ -6,7 +6,9 @@
 
 Open-source USB to WiFi HaLow (IEEE 802.11ah) adapter based on Morse Micro MM8108-MF15457 module. Designed for long-range IoT connectivity and mesh networks.
 
-![PCB Preview](images/pcb-preview.png)
+![PCB FRONT](images/PCB-FRONT.png)
+![PCB BACK](images/PCB-BACK.png)
+
 
 ## ✨ Features
 
@@ -48,7 +50,7 @@ Open-source USB to WiFi HaLow (IEEE 802.11ah) adapter based on Morse Micro MM810
 
 ### 1. Order PCBs
 
-Upload gerber files from `hardware/pcb/gerbers/` to [JLCPCB](https://jlcpcb.com)
+Upload gerber files from `hardware/pcb/gerbers/` to [PCBWAY](https://pcbway.com)
 
 **Important settings:**
 - PCB Thickness: **1.0mm**
@@ -143,7 +145,7 @@ Contributions welcome!
 ## 🙏 Acknowledgments
 
 - Morse Micro for MM8108 module documentation
-- JLCPCB for affordable PCB manufacturing
+- PCBWAY for PCB manufacturing
 - EasyEDA for PCB design tools
 - Meshtastic community for inspiration
 
