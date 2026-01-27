@@ -6,8 +6,18 @@
 
 Open-source USB to WiFi HaLow (IEEE 802.11ah) adapter based on Morse Micro MM8108-MF15457 module. Designed for long-range IoT connectivity and mesh networks.
 
-![PCB FRONT](images/PCB-FRONT.png)
-![PCB BACK](images/PCB-BACK.png)
+## PCB Images
+
+<p align="center">
+  <img src="images/PCB-FRONT.png" width="20%" alt="PCB Front"/>
+  <img src="images/PCB-BACK.png" width="20%" alt="PCB Back"/>
+</p>
+
+<p align="center">
+  <b>Front View</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Back View</b>
+</p>
 
 
 ## ✨ Features
