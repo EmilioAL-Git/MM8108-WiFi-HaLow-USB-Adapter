@@ -19,6 +19,26 @@ Open-source USB to WiFi HaLow (IEEE 802.11ah) adapter based on Morse Micro MM810
   <b>Back View</b>
 </p>
 
+## 🏭 Project Sponsored by PCBWay
+
+<div align="center">
+  <img src="https://pcbwayfile.s3-us-west-2.amazonaws.com/project/21/05/05/0141152434522.jpg" width="300"/>
+</div>
+
+This project has been manufactured and tested thanks to sponsorship from **PCBWay**, a leading company in PCB manufacturing and electronic assembly.
+
+The received boards show **excellent manufacturing quality**, with:
+- Sharp and precise silkscreen  
+- Perfectly defined solder masks  
+- Clean and well-aligned vias and traces  
+- Industrial-level professional finishes
+
+Thanks to this manufacturing quality, the hardware assembly and testing process has been notably more reliable and straightforward, allowing efficient design validation with very satisfactory results.
+
+Special thanks to **PCBWay** for supporting the development of open and community projects like **Albatastic PRO**.
+
+
+---
 
 ## ✨ Features
 
