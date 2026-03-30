@@ -19,23 +19,54 @@ Open-source USB to WiFi HaLow (IEEE 802.11ah) adapter based on Morse Micro MM810
   <b>Back View</b>
 </p>
 
+
+
 ## 🏭 Project Sponsored by PCBWay
 
 <div align="center">
   <img src="https://pcbwayfile.s3-us-west-2.amazonaws.com/project/21/05/05/0141152434522.jpg" width="300"/>
 </div>
 
-This project has been manufactured and tested thanks to sponsorship from **PCBWay**, a leading company in PCB manufacturing and electronic assembly.
+This project has been manufactured thanks to the sponsorship of **[PCBWay](https://www.pcbway.com)**, a leading company in PCB manufacturing, electronic assembly, and prototyping services.
+
+### 📦 Shipping & Packaging
+
+The PCBs and stencil arrived in **perfect condition** with excellent shipping speed. Everything was well protected and there were no issues throughout the process.
+
+<div align="center">
+  <img src="images/pcb1.jpg" width="600" alt="PCBs received from PCBWay"/>
+</div>
+
+### 🔍 Manufacturing Quality
 
 The received boards show **excellent manufacturing quality**, with:
-- Sharp and precise silkscreen  
-- Perfectly defined solder masks  
-- Clean and well-aligned vias and traces  
+
+- Sharp and precise silkscreen
+- Perfectly defined solder masks, with no bleeding or irregularities
+- Clean and well-aligned vias and traces — especially important for the 50Ω RF lines
 - Industrial-level professional finishes
+- **Precision stencil**, essential for correct paste application on fine-pitch components like the MM6108
 
-Thanks to this manufacturing quality, the hardware assembly and testing process has been notably more reliable and straightforward, allowing efficient design validation with very satisfactory results.
+<div align="center">
+  <img src="images/pcb2.jpg" width="600" alt="Manufacturing quality detail"/>
+</div>
 
-Special thanks to **PCBWay** for supporting the development of open and community projects like **Albatastic PRO**.
+### ✅ Functional Results
+
+After soldering and testing the boards, the **AlbaceteMesh Halow Dongle works correctly**. Thanks to this manufacturing quality, the hardware assembly and testing process has been notably more reliable and straightforward, allowing efficient design validation with very satisfactory results on the first prototype iteration.
+
+<div align="center">
+  <img src="images/pcb3.jpg" width="600" alt="AlbaceteMesh Halow Dongle working"/>
+</div>
+
+### 🙏 Acknowledgements
+
+Special thanks to **PCBWay** and especially to **Liam** for the close and professional support, and for backing open-source community projects like **AlbaceteMesh Halow Dongle**. It's a pleasure to keep collaborating with them.
+
+If you're looking for a reliable manufacturer for your projects — especially prototypes with RF requirements or high precision needs — I really recommend [PCBWay](https://www.pcbway.com).
+
+
+
 
 
 ---
